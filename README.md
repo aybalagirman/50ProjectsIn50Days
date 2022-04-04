@@ -5,4 +5,5 @@ This is a repository for the Udemy course 50 Projects in 50 Days - HTML, CSS & J
 	Day 2: Building a progress bar showing steps, which can be used on any form or shopping websites' checkout pages. <br />
 	Day 3: Building a navigation tab for blogs or any kind of website. When the user clicks the navigation button, the content page rotates to reveal buttons used for navigating inside the website. <br />
 	Day 4: Building a hidden search widget. The search box expands when the user clicks the search button. <br />
-	Day 5: Building a blurry loading page. As the image on the page loads, it becomes less and less blurry.
+	Day 5: Building a blurry loading page. As the image on the page loads, it becomes less and less blurry. <br />
+	Day 6: Building a scrolling animation.
